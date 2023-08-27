@@ -11,41 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biological Sciences, Federal University of Mato Grosso, 2022
+* M.S. in Geology, University of Tennessee, 2024 [expected]
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Graduate Research Assistant
+  * University of Tennessee
+  * Duties included: Data collection, Bayesian analysis, paleontological fieldwork, and programming in R
+  * Supervisor: Professor Alycia Stigall
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: Undergraduate Research Assistant
+  * Federal University of Mato Grosso
+  * Duties included: Data collection on online databases, ecological niche modeling, and programming in R
+  * Supervisor: Dr. Priscila Lemes
+    
+* Winter 2021: Undergraduate Intern
+  * National Institute of Research on the Pantanal Wetland
+  * Duties included: Geoprocessing land use data, Python, and R programming
+  * Supervisor: Dr. Paulo C. Venere
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Expertise in Python, and R programming
+* Expertise in paleontological methods:
+  * Ecological niche modeling
+  * Bayesian phylogeny
+  * Additional ecological methods (multivariate analysis, ANOVA, and GLM)
+* Field work experience in stratigraphy, paleontology, and modern biology
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
