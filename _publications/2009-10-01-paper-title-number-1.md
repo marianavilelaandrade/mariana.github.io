@@ -1,7 +1,7 @@
 ---
 title: "Developing a phylogenetic framework for tiny Ordovician brachiopods (Atrypida: Anazyginae and Catazyginae) from the eastern United States"
 collection: publications
-permalink: marianavilelaandrade.github.io/publications/
+permalink: /publications/
 excerpt: 'Published abstract in the 14th International Symposium on the Ordovician System (2023)'
 date: 16 June 2023
 venue: 'Estonian Journal of Earth Sciences'
