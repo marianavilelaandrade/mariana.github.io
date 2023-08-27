@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: marianavilelaandrade.github.io/publications/
 author_profile: true
 ---
 
